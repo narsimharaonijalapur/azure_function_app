@@ -1,12 +1,8 @@
-streamlit
 azure-identity
 azure-search-documents
 azure-core
 openai
 python-dotenv
 azure-keyvault-secrets
-msal
 azure.functions
-cffi
-cryptography
 azure-storage-blob
